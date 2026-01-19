@@ -1,0 +1,18 @@
+Day 2
+data types and variables  in java 
+variables = the name which can store the values ..EX= X=10;
+Basic Datatypes = int, float,byte, short, char,boolean,double..etc
+
+example for datatype with variable
+public class Myclass{
+public static vaid main (Strings[]args){
+short my_variable = 10;
+float my_decimal = (float) 4.5;
+double my_double = 11.45;
+boolean is_true= false;
+System.out.println(my_variable);
+System.out.println( my_decimal);
+System.out.println(my_double);
+System.out.println(is_true);
+  }
+}
