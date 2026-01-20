@@ -1,0 +1,14 @@
+Taking input fron the user in java
+
+import java.util.scanner;
+public class myclass{
+public static void main(string[]args)
+{
+Scanner scan = new Scanner(System.in);
+System.out.println("Enter the some number");
+int user_input_number = Scan.nextInt();
+System.out.println("The entered value is");
+System.out.print("user_input_number");
+}
+}
+
