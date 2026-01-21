@@ -1,0 +1,14 @@
+Math operators in java
+when ever we have to add the number or anything in the math operators 
+
+public class Myclass{
+public static void main (strings[]args){
+int x, y, answer;
+x=10;
+y=20
+anwer = x+y;
+System.out.println("Answer"+ answer);
+}
+}
+
+// its also same as all the operators +, -, *, /, %...
