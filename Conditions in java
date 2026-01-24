@@ -1,0 +1,21 @@
+conditions statement in java
+basic syntax :--
+if(boolean expresition)
+{
+execute if the boolean conditon is true 
+}
+the basic condition symbols is == , != , < , > , <= , >=.....
+
+pub;ic class Mycalss{
+pub;ic static void main (string[]args){
+int x=10;
+if (x == 10)
+{
+System.out.println("Yes x is == 10");
+} 
+else {
+System.lout.println("No x != 10");
+}
+}
+}
+
