@@ -1,0 +1,17 @@
+logic oprator in java
+AND and OR
+
+public class My class{
+public class void main(String[]args){
+int Subject1 = 20;
+int subject2 = 40;
+if((Subject1 >=35) && (Subject2>=35))
+{
+System.out.println("The condition is true");
+}
+else{
+System.out.println("The condition is False");
+}
+}
+}
+
