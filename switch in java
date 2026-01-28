@@ -1,0 +1,25 @@
+publi class Myclass{
+public static void mian(String[] args){
+int score =90;
+switch(score)
+{
+case 90:
+case 100:
+case 95:
+System.out.println("Very Good");
+break;
+case 80:
+case 85:
+case 89:
+System.out.println("Good");
+break;
+case 70:
+case 79:
+case 75:
+System.out.println("Ok");
+break;
+defult:
+System.out.print("The grade is not defined");
+break;
+}}}
+
