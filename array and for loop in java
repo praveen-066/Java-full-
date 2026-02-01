@@ -1,0 +1,32 @@
+what are the arrays and how we can apply in java 
+And for loop or statement in java
+
+public class myclass{
+public static void main(Stings[]args){
+int[] myIntarray = {100,25,28,36,19};
+int index = 0;
+while(index <= 4)
+{
+System.out.println(myIntarray[index]);
+index++;
+}
+}
+}  
+
+   for statement in java
+ public class myclass{
+public static void main(Strings[]args){
+int[] myIntarray = {100,25,28,36,19};
+for (int i=0; i<=4; i++)
+{
+System.out.println(myIntarray[i]);
+}
+}
+}
+
+OUTPUT:--
+100
+25
+28
+36
+19
