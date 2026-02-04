@@ -1,0 +1,16 @@
+parameter passing and returning values from method
+public class myclass {
+
+	public static void main(String[] args) {
+		int sum = Add(100,201,211);
+		int result = sum * 15;
+		System.out.println(result);
+	}
+	public static void sayHello(String name) {
+		System.out.println("Hello " + name );
+	} 
+	public static int Add(int a, int b, int c)
+	{
+		return(a+b+c);
+	}
+}
