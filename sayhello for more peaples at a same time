@@ -1,0 +1,12 @@
+say hello to more peoples 
+public class myclass {
+public static void main(Strings[]args){
+sayHello("Rohan");
+sayHello("Rakesh");
+sayHello("Keerthan");
+sayHello("Harshith");
+}
+public static void sayHello(String name){
+System.out.println("Hello" + name);
+}
+}
