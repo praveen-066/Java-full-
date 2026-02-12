@@ -1,0 +1,29 @@
+class constructor in java:
+public class myclass{
+public static class myclass(string[]args){
+cube cube1 = new cube();
+System.out.println(cube1.getCubeValue());
+Cube cube2 = new cube(20,30,20);
+System.out.println(cube2.getCubeValue());
+}
+}
+
+
+create and inside the class:--
+public class cube{
+int length;
+int breadth;
+int height;
+public int getCubeValue(){
+return(length*breadth*height);
+}
+cube (){
+length = 10;
+breadth = 20;
+height = 30;
+}
+cube 2(int l, int b, int h){
+length = 10;
+breadth = 20;
+height = 30;
+}
